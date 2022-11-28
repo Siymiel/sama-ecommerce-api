@@ -17,6 +17,7 @@
     "jsonwebtoken": "^8.5.1",
     "mailgun-js": "^0.22.0",
     "mongoose": "^6.6.5",
+    "mongoose-slug-generator": "^1.0.4",
     "nodemailer": "^6.8.0",
     "stripe": "^10.14.0"
   },
